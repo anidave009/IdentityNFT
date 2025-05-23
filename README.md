@@ -40,11 +40,10 @@ Before you begin, ensure you have the following installed/set up:
     *   We'll use Remix for contract deployment: [Remix Ethereum IDE](https://remix.ethereum.org/)
 
 ## Project Setup and Running Locally
-1 . Set up the React Environment (Copy Files):
- * This repository provides the core logic in App.js and styling in App.css.
+1 . Set up the React Environment :
+ * Watch a quick youtube video on how to setup a react environment (it is simple).Replace the App.js and App.css(this will be existing files when you create a react env/app) with the one i provided above.
  * If you have an existing Create React App project, you can replace its src/App.js and src/App.css with the versions from this repository.
  * Ensure your src/index.js is set up to render the <App /> component. A standard Create React App index.js will work.
- * (If this repository IS the complete Create React App project, you can skip this file-copying step, as the files are already in place).
 
 2. Deploy the IdentityNFT.sol Smart Contract (using Remix IDE)
  
